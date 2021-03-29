@@ -4,7 +4,7 @@ I'm a Software Developer on a Journey to make people's lives run more efficientl
 
 - This github page houses all of my current and past projects. Feel free to take a look around!
 
-[![alexjoyners's github stats](https://github-readme-stats.vercel.app/api?username=alexjoyner)](https://github.com/alexjoyner/github-readme-stats)
+[![alexjoyners's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexjoyner)](https://github.com/anuraghazra/github-readme-stats)
 
 ##### Projects Contact
 
